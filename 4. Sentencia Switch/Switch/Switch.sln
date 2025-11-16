@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Introduccion Switch", "1. Introduccion Switch\1. Introduccion Switch.csproj", "{103FD537-7F1D-4C92-B5B1-8064BFB1B51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Calculadora basica SWITCH", "2. Calculadora basica SWITCH\2. Calculadora basica SWITCH.csproj", "{AA4678A4-5C10-4ABC-A6A0-9C00B6C14039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103FD537-7F1D-4C92-B5B1-8064BFB1B51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103FD537-7F1D-4C92-B5B1-8064BFB1B51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103FD537-7F1D-4C92-B5B1-8064BFB1B51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103FD537-7F1D-4C92-B5B1-8064BFB1B51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4678A4-5C10-4ABC-A6A0-9C00B6C14039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4678A4-5C10-4ABC-A6A0-9C00B6C14039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4678A4-5C10-4ABC-A6A0-9C00B6C14039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4678A4-5C10-4ABC-A6A0-9C00B6C14039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D897FF2A-178D-48B1-859D-0FE7F751D0A5}
+	EndGlobalSection
+EndGlobal

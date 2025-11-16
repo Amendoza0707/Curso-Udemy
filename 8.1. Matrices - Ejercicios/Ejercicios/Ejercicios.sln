@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Muestra el array", "Ejercicio 1\1.Muestra el array.csproj", "{5AB095A9-A581-4056-ADC8-C1A25AE98F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Pide los valores del array", "2. Pide los valores del array\2. Pide los valores del array.csproj", "{5D8C811B-0991-4B27-8DFE-8B45E3BD692E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Suma de valores del array", "3.Suma de valores del array\3.Suma de valores del array.csproj", "{D8E9AC31-6268-423D-B284-1568B672B76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Pedir un numero x teclaro y multiplicar", "4.Pedir un numero x teclaro y multiplicar\4.Pedir un numero x teclaro y multiplicar.csproj", "{9D154764-C25E-4C81-A3FF-DB8A1C626D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Ordenar un arrays de mayor a menor", "5.Ordenar un arrays de mayor a menor\5.Ordenar un arrays de mayor a menor.csproj", "{A7992D79-15A7-4E0F-9BFE-3F4DECE0836C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB095A9-A581-4056-ADC8-C1A25AE98F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB095A9-A581-4056-ADC8-C1A25AE98F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB095A9-A581-4056-ADC8-C1A25AE98F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB095A9-A581-4056-ADC8-C1A25AE98F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8C811B-0991-4B27-8DFE-8B45E3BD692E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8C811B-0991-4B27-8DFE-8B45E3BD692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8C811B-0991-4B27-8DFE-8B45E3BD692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8C811B-0991-4B27-8DFE-8B45E3BD692E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E9AC31-6268-423D-B284-1568B672B76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E9AC31-6268-423D-B284-1568B672B76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E9AC31-6268-423D-B284-1568B672B76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E9AC31-6268-423D-B284-1568B672B76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D154764-C25E-4C81-A3FF-DB8A1C626D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D154764-C25E-4C81-A3FF-DB8A1C626D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D154764-C25E-4C81-A3FF-DB8A1C626D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D154764-C25E-4C81-A3FF-DB8A1C626D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7992D79-15A7-4E0F-9BFE-3F4DECE0836C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7992D79-15A7-4E0F-9BFE-3F4DECE0836C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7992D79-15A7-4E0F-9BFE-3F4DECE0836C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7992D79-15A7-4E0F-9BFE-3F4DECE0836C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AAEA51D-8153-4513-BAD0-47CCE975A3C5}
+	EndGlobalSection
+EndGlobal

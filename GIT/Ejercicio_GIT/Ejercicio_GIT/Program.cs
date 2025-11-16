@@ -10,6 +10,7 @@ namespace Ejercicio_GIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Se agregara un Menu");
         }
 
         static double Suma(double n1, double n2)

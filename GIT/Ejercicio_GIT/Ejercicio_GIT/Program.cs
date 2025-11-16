@@ -18,7 +18,11 @@ namespace Ejercicio_GIT
             return resultado;
         }
 
-        //Metodo Suma
+        static double Resta(double n1, double n2){
+            double resultado = n1 - n2;
+            return resultado;
+         }
+        
 
     }
 }

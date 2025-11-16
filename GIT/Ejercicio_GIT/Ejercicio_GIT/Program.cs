@@ -23,6 +23,11 @@ namespace Ejercicio_GIT
             return resultado;
          }
         
+        static double multiplicacion(double n1, double n2)
+        {
+            double resultado = n1 * n2;
+            return resultado;
+        }
 
     }
 }
